@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Easier integration with Enchant.com",
     "keywords": ["support","communication","crm"],
-    "homepage": "https://github.com/vinay-enchant/enchant-php",
+    "homepage": "https://github.com/enchant/enchant-php",
     "license": "MIT",
     "authors": [
         {
